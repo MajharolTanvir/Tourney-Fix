@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #1d061a;
+  background-image: linear-gradient(black, rgb(71, 2, 71));
 }
 
 .square-box {
@@ -166,6 +166,10 @@ body {
 
 .square-box .box .content img {
   width: 100%;
+}
+.square-box .box:nth-child(1) .content img {
+  width: 60%;
+  justify-content: center;
 }
 
 .square-box .box .content h6 {

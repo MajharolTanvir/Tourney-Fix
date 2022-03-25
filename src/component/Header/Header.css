@@ -1,0 +1,21 @@
+/* .menubar{
+    background: #fff;
+} */
+.menubar1 {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+.menubar1:hover {
+    color: yellow;
+    font-weight: bold;
+}
+.menubar2 a {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.menubar2 a:hover {
+    color: yellow;
+    font-weight: bold;
+}

@@ -12,7 +12,7 @@ const Home = () => {
             <div className="box">
                 <span></span>
                 <div className="content">
-                    <div className="img_box w-50 mx-auto">
+                    <div className="img_box justify-content-center mx-auto ">
                         <img src={firstImage} alt="" />
                     </div>
                     <h6>KREE SCRIMS BATTLE</h6>
